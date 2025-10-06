@@ -17,4 +17,15 @@
 ## Cách chạy chương trình:
 Yêu cầu Python 3.9+
 
-Cài thư viện:
+## Cài thư viện:
+pip install openpyxl
+pip install pywin32
+
+
+## Chạy lệnh:
+
+python main.py
+
+
+## Công nghệ sử dụng:
+Python, Tkinter, openpyxl, win32com
